@@ -1,12 +1,9 @@
-# DigiNote
+# StudyBuddy
 
-WHAT IS IT?
-a digital notepad.
-a type of tablet and pen combo and is designed for note taking, pdf scanning, reading and editing with basic software that allows it to do those things.
+WHAT IS IT :
+It is an ambient light and timer made for students to help them study/focus while studying
 
+WHY I AM MAKING IT :
+I want a device that can make getting into the zone while studying feel less daunting for students and I want StudyBuddy to be that tool
 
-WHAT IS ITS PURPOSE
-the intention is to build something robust and funcitional for use as a replacement to notebooks and textbooks while still achieving that classic writing feel without breaking the bank.
-
-
-
+![A pixel art render of my initial design for the StudyBudy](StudyBudy-1.png)
