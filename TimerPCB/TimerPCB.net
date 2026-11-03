@@ -1,0 +1,2057 @@
+(export
+	(version "E")
+	(design
+		(source "C:\\Users\\zeena\\OneDrive\\Desktop\\DigiNote\\TimerPCB\\TimerPCB.kicad_sch")
+		(date "2026-11-03T09:22:37")
+		(tool "Eeschema 10.0.8")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "TimerPCB.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "R1")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b6b402fd-989d-409e-8c85-da174ae34a73")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R2")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7a13cf51-dd67-4d44-b051-ba294a8d3138")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fa2c460c-9a73-4625-89f1-44b2a0f84af2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R4")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00691723-83e0-410a-8df7-ab3e3e6795d4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R5")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "350a377c-e3cf-4e56-af63-8f99e72b3c8a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R6")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1a15c319-1643-4148-9c82-61e5f4a4d9b5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R7")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ed079fc3-d6d1-434e-bb0a-d4756dcc7610")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R8")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b5c1cb6a-8351-4cf6-9c01-e0feeec6eb2d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R9")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e24db39f-12d6-4c51-8e39-b2b84e544cb2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R10")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "028938fe-9ab9-4ebe-9993-3f4b5de68f74")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R11")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1a4df23e-f6bb-4fd6-8b2c-2532d66b131c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R12")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b57c5aea-80f8-4d95-aba1-6dbb16f109e7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R13")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c3af62f7-2d92-4cdc-9084-cf5e32b8ab31")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R14")
+			(value "R_US")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "R_US")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b78b2580-7d88-4a21-86a2-eb38ca89665c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U1")
+			(value "74HC4060")
+			(datasheet "https://www.st.com/resource/en/datasheet/m74hc4060.pdf")
+			(description "Binary counter (14-stages) and oscillator")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet") "https://www.st.com/resource/en/datasheet/m74hc4060.pdf")
+				(field
+					(name "Description") "Binary counter (14-stages) and oscillator")
+			)
+			(libsource
+				(lib "74xx")
+				(part "74HC4060")
+				(description "Binary counter (14-stages) and oscillator")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "binary counter oscillator")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "DIP?16*7.62* TSSOP*16*4.4x5* SOIC*16*3.9x9.9*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1edafaf3-a2f0-4932-85a0-35e0cf78d7c1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U2")
+			(value "74HC4060")
+			(datasheet "https://www.st.com/resource/en/datasheet/m74hc4060.pdf")
+			(description "Binary counter (14-stages) and oscillator")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet") "https://www.st.com/resource/en/datasheet/m74hc4060.pdf")
+				(field
+					(name "Description") "Binary counter (14-stages) and oscillator")
+			)
+			(libsource
+				(lib "74xx")
+				(part "74HC4060")
+				(description "Binary counter (14-stages) and oscillator")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "binary counter oscillator")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "DIP?16*7.62* TSSOP*16*4.4x5* SOIC*16*3.9x9.9*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c8355ffe-7375-447a-96f1-71716586d544")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U3")
+			(value "SA39-12YWA")
+			(footprint "Display_7Segment:Sx39-1xxxxx")
+			(datasheet "http://www.kingbrightusa.com/images/catalog/SPEC/sa39-12ywa.pdf")
+			(description "Single digit 7 segment display, yellow, common anode")
+			(fields
+				(field
+					(name "Footprint") "Display_7Segment:Sx39-1xxxxx")
+				(field
+					(name "Datasheet") "http://www.kingbrightusa.com/images/catalog/SPEC/sa39-12ywa.pdf")
+				(field
+					(name "Description") "Single digit 7 segment display, yellow, common anode")
+			)
+			(libsource
+				(lib "Display_Character")
+				(part "SA39-12YWA")
+				(description "Single digit 7 segment display, yellow, common anode")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "display LED 7-segment")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "S?39?1*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0c157dab-4258-4b8b-9189-ce651d1b9218")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U4")
+			(value "SA39-12YWA")
+			(footprint "Display_7Segment:Sx39-1xxxxx")
+			(datasheet "http://www.kingbrightusa.com/images/catalog/SPEC/sa39-12ywa.pdf")
+			(description "Single digit 7 segment display, yellow, common anode")
+			(fields
+				(field
+					(name "Footprint") "Display_7Segment:Sx39-1xxxxx")
+				(field
+					(name "Datasheet") "http://www.kingbrightusa.com/images/catalog/SPEC/sa39-12ywa.pdf")
+				(field
+					(name "Description") "Single digit 7 segment display, yellow, common anode")
+			)
+			(libsource
+				(lib "Display_Character")
+				(part "SA39-12YWA")
+				(description "Single digit 7 segment display, yellow, common anode")
+			)
+			(property
+				(name "Sheetname")
+				(value "TimerPCB")
+			)
+			(property
+				(name "Sheetfile")
+				(value "TimerPCB.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "display LED 7-segment")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "S?39?1*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0a8e0510-774a-46f5-88d1-b53dc269e947")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "74xx")
+			(part "74HC4060")
+			(description "Binary counter (14-stages) and oscillator")
+			(docs "https://www.st.com/resource/en/datasheet/m74hc4060.pdf")
+			(footprints
+				(fp "DIP?16*7.62*")
+				(fp "TSSOP*16*4.4x5*")
+				(fp "SOIC*16*3.9x9.9*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "74HC4060")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet") "https://www.st.com/resource/en/datasheet/m74hc4060.pdf")
+				(field
+					(name "Description") "Binary counter (14-stages) and oscillator")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Q12")
+					(type "output")
+				)
+				(pin
+					(num "2")
+					(name "Q13")
+					(type "output")
+				)
+				(pin
+					(num "3")
+					(name "Q14")
+					(type "output")
+				)
+				(pin
+					(num "4")
+					(name "Q6")
+					(type "output")
+				)
+				(pin
+					(num "5")
+					(name "Q5")
+					(type "output")
+				)
+				(pin
+					(num "6")
+					(name "Q7")
+					(type "output")
+				)
+				(pin
+					(num "7")
+					(name "Q4")
+					(type "output")
+				)
+				(pin
+					(num "8")
+					(name "VSS")
+					(type "power_in")
+				)
+				(pin
+					(num "9")
+					(name "~{Φ0}")
+					(type "input")
+				)
+				(pin
+					(num "10")
+					(name "Φ0")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "~{Φ1}")
+					(type "input")
+				)
+				(pin
+					(num "12")
+					(name "CLR")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "Q9")
+					(type "output")
+				)
+				(pin
+					(num "14")
+					(name "Q8")
+					(type "output")
+				)
+				(pin
+					(num "15")
+					(name "Q10")
+					(type "output")
+				)
+				(pin
+					(num "16")
+					(name "VDD")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "R_US")
+			(description "Resistor, US symbol")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R_US")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Display_Character")
+			(part "SA39-12YWA")
+			(description "Single digit 7 segment display, yellow, common anode")
+			(docs "http://www.kingbrightusa.com/images/catalog/SPEC/sa39-12ywa.pdf")
+			(footprints
+				(fp "S?39?1*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "SA39-12YWA")
+				(field
+					(name "Footprint") "Display_7Segment:Sx39-1xxxxx")
+				(field
+					(name "Datasheet") "http://www.kingbrightusa.com/images/catalog/SPEC/sa39-12ywa.pdf")
+				(field
+					(name "Description") "Single digit 7 segment display, yellow, common anode")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "CA")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "F")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "G")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "E")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "D")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "CA")
+					(type "input")
+				)
+				(pin
+					(num "7")
+					(name "DP")
+					(type "input")
+				)
+				(pin
+					(num "8")
+					(name "C")
+					(type "input")
+				)
+				(pin
+					(num "9")
+					(name "B")
+					(type "input")
+				)
+				(pin
+					(num "10")
+					(name "A")
+					(type "input")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "74xx")
+			(uri "${KICAD10_SYMBOL_DIR}/74xx.kicad_sym")
+		)
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_sym")
+		)
+		(library
+			(logical "Display_Character")
+			(uri "${KICAD10_SYMBOL_DIR}/Display_Character.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "+5V")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "16")
+				(pinfunction "VDD_16")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "2")
+				(pinfunction "Q13_2")
+				(pintype "output")
+			)
+			(node
+				(ref "U1")
+				(pin "3")
+				(pinfunction "Q14_3")
+				(pintype "output")
+			)
+			(node
+				(ref "U1")
+				(pin "8")
+				(pinfunction "VSS_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U2")
+				(pin "16")
+				(pinfunction "VDD_16")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U2")
+				(pin "3")
+				(pinfunction "Q14_3")
+				(pintype "output")
+			)
+			(node
+				(ref "U3")
+				(pin "7")
+				(pinfunction "DP_7")
+				(pintype "input")
+			)
+			(node
+				(ref "U4")
+				(pin "7")
+				(pinfunction "DP_7")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "2")
+			(name "Net-(U1-CLR)")
+			(class "Default")
+			(node
+				(ref "R2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "12")
+				(pinfunction "CLR_12")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "3")
+			(name "Net-(U1-Q4)")
+			(class "Default")
+			(node
+				(ref "R7")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "7")
+				(pinfunction "Q4_7")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "4")
+			(name "Net-(U1-Q7)")
+			(class "Default")
+			(node
+				(ref "R6")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "6")
+				(pinfunction "Q7_6")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "5")
+			(name "Net-(U1-Q9)")
+			(class "Default")
+			(node
+				(ref "R3")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "13")
+				(pinfunction "Q9_13")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "6")
+			(name "Net-(U1-~{Φ0})")
+			(class "Default")
+			(node
+				(ref "R4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "9")
+				(pinfunction "~{Φ0}_9")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "7")
+			(name "Net-(U1-~{Φ1})")
+			(class "Default")
+			(node
+				(ref "R5")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "11")
+				(pinfunction "~{Φ1}_11")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "8")
+			(name "Net-(U1-Φ0)")
+			(class "Default")
+			(node
+				(ref "R1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "10")
+				(pinfunction "Φ0_10")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "9")
+			(name "Net-(U2-CLR)")
+			(class "Default")
+			(node
+				(ref "R9")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "12")
+				(pinfunction "CLR_12")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "10")
+			(name "Net-(U2-Q4)")
+			(class "Default")
+			(node
+				(ref "R14")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "7")
+				(pinfunction "Q4_7")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "11")
+			(name "Net-(U2-Q7)")
+			(class "Default")
+			(node
+				(ref "R13")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "6")
+				(pinfunction "Q7_6")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "12")
+			(name "Net-(U2-Q9)")
+			(class "Default")
+			(node
+				(ref "R10")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "13")
+				(pinfunction "Q9_13")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "13")
+			(name "Net-(U2-~{Φ0})")
+			(class "Default")
+			(node
+				(ref "R11")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "9")
+				(pinfunction "~{Φ0}_9")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "14")
+			(name "Net-(U2-~{Φ1})")
+			(class "Default")
+			(node
+				(ref "R12")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "11")
+				(pinfunction "~{Φ1}_11")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "15")
+			(name "Net-(U2-Φ0)")
+			(class "Default")
+			(node
+				(ref "R8")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "10")
+				(pinfunction "Φ0_10")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "16")
+			(name "Net-(U3-A)")
+			(class "Default")
+			(node
+				(ref "R1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "10")
+				(pinfunction "A_10")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "17")
+			(name "Net-(U3-B)")
+			(class "Default")
+			(node
+				(ref "R2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "9")
+				(pinfunction "B_9")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "18")
+			(name "Net-(U3-C)")
+			(class "Default")
+			(node
+				(ref "R3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "8")
+				(pinfunction "C_8")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "19")
+			(name "Net-(U3-D)")
+			(class "Default")
+			(node
+				(ref "R4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "5")
+				(pinfunction "D_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "20")
+			(name "Net-(U3-E)")
+			(class "Default")
+			(node
+				(ref "R5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "4")
+				(pinfunction "E_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "21")
+			(name "Net-(U3-F)")
+			(class "Default")
+			(node
+				(ref "R6")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "2")
+				(pinfunction "F_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "22")
+			(name "Net-(U3-G)")
+			(class "Default")
+			(node
+				(ref "R7")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "3")
+				(pinfunction "G_3")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "23")
+			(name "Net-(U4-A)")
+			(class "Default")
+			(node
+				(ref "R8")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "10")
+				(pinfunction "A_10")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "24")
+			(name "Net-(U4-B)")
+			(class "Default")
+			(node
+				(ref "R9")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "9")
+				(pinfunction "B_9")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "25")
+			(name "Net-(U4-C)")
+			(class "Default")
+			(node
+				(ref "R10")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "8")
+				(pinfunction "C_8")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "26")
+			(name "Net-(U4-D)")
+			(class "Default")
+			(node
+				(ref "R11")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "5")
+				(pinfunction "D_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "27")
+			(name "Net-(U4-E)")
+			(class "Default")
+			(node
+				(ref "R12")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "4")
+				(pinfunction "E_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "28")
+			(name "Net-(U4-F)")
+			(class "Default")
+			(node
+				(ref "R13")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "2")
+				(pinfunction "F_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "29")
+			(name "Net-(U4-G)")
+			(class "Default")
+			(node
+				(ref "R14")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "3")
+				(pinfunction "G_3")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "30")
+			(name "unconnected-(U1-Q5-Pad5)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "5")
+				(pinfunction "Q5_5")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "31")
+			(name "unconnected-(U1-Q6-Pad4)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "4")
+				(pinfunction "Q6_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "32")
+			(name "unconnected-(U1-Q8-Pad14)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "14")
+				(pinfunction "Q8_14")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "33")
+			(name "unconnected-(U1-Q10-Pad15)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "15")
+				(pinfunction "Q10_15")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "34")
+			(name "unconnected-(U1-Q12-Pad1)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "Q12_1")
+				(pintype "output")
+			)
+			(node
+				(ref "U2")
+				(pin "2")
+				(pinfunction "Q13_2")
+				(pintype "output")
+			)
+			(node
+				(ref "U2")
+				(pin "5")
+				(pinfunction "Q5_5")
+				(pintype "output")
+			)
+			(node
+				(ref "U2")
+				(pin "8")
+				(pinfunction "VSS_8")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "35")
+			(name "unconnected-(U2-Q6-Pad4)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "4")
+				(pinfunction "Q6_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "36")
+			(name "unconnected-(U2-Q8-Pad14)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "14")
+				(pinfunction "Q8_14")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "37")
+			(name "unconnected-(U2-Q10-Pad15)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "15")
+				(pinfunction "Q10_15")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "38")
+			(name "unconnected-(U2-Q12-Pad1)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "1")
+				(pinfunction "Q12_1")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "39")
+			(name "unconnected-(U3-CA-Pad1)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "1")
+				(pinfunction "CA_1")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "40")
+			(name "unconnected-(U3-CA-Pad6)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "6")
+				(pinfunction "CA_6")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "41")
+			(name "unconnected-(U4-CA-Pad1)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "1")
+				(pinfunction "CA_1")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "42")
+			(name "unconnected-(U4-CA-Pad6)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "6")
+				(pinfunction "CA_6")
+				(pintype "input")
+			)
+		)
+	)
+)
