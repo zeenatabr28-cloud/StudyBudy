@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "TimerPCB.kicad_prl",
+    "filename": "Timer_Circuit.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

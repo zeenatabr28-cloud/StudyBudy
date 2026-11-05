@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TimerPCB.kicad_pro",
+    "filename": "Timer_Circuit.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -615,12 +615,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -653,14 +665,6 @@
     "meta": {
       "version": 1
     },
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -668,18 +672,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "TimerPCB.kicad_sch",
-        "name": "TimerPCB",
-        "uuid": "b6c542d0-44b4-4ddc-afda-95f8928a2982"
+        "filename": "Timer_Circuit.kicad_sch",
+        "name": "Timer_Circuit",
+        "uuid": "27190249-4954-4982-afd4-05981e28dee9"
       }
     ],
-    "used_designators": "#PWR1-2,D1,I1,R1",
+    "used_designators": "#GND1,#PWR1-3,D1-2,R1-4,U1-18,V1,Y1",
     "variants": []
   },
   "sheets": [
     [
-      "b6c542d0-44b4-4ddc-afda-95f8928a2982",
-      "TimerPCB"
+      "27190249-4954-4982-afd4-05981e28dee9",
+      "Timer_Circuit"
     ]
   ],
   "text_variables": {},
