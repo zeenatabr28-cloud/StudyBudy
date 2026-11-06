@@ -8,17 +8,14 @@ I want a device that can make getting into the zone while studying feel less dau
 
 ![A pixel art render of my initial design for the StudyBudy](StudyBudy-1.png)
 
-![Base Design-two buttons](<Screenshot 2026-11-04 224917.png>)
+![My 1st attempt at an Arduino](<Screenshot 2026-11-06 135332-1.png>)
 
-![Base Design-three buttons](<Screenshot 2026-11-05 125722.png>)
+![Final Arduino Attempt](<Screenshot 2026-11-06 185113-1.png>)
 
-![Knob design/octagonal](<Screenshot 2026-11-04 113028.png>)
+![PCB(Arduino knock-off)](<Screenshot 2026-11-06 185119-1.png>)
 
-![Knob design/cylindrical](image.png)
+![The rest of the circuit](<Screenshot 2026-11-06 185202-1.png>)
 
-![Button-yay](image-2.png)
+![Full assembly](<Screenshot 2026-11-06 200451-1.png>)
 
-![Top/Cover Design](image-1.png)
-
-![Cover Design-to hide the circuit](<Screenshot 2026-11-05 125729.png>)
 
